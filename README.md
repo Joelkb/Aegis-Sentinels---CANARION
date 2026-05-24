@@ -75,7 +75,7 @@ Beneath every functioning city — inside sewage tunnels, industrial boilers, st
 <!-- Add canarion-presentation.mp4 to the same folder -->
 
 <video controls width="100%">
-  <source src="/canarion-presentation.mp4" type="video/mp4">
+  <source src="CANARION/canarion-presentation.mp4" type="video/mp4">
 </video>
 
 **Live Demo**
@@ -83,7 +83,7 @@ Beneath every functioning city — inside sewage tunnels, industrial boilers, st
 <!-- Add canarion-demo.mp4 to the same folder -->
 
 <video controls width="100%">
-  <source src="/canarion-demo.mp4" type="video/mp4">
+  <source src="CANARION/canarion-demo.mp4" type="video/mp4">
 </video>
 
 ---
