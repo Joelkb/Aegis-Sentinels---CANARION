@@ -64,12 +64,14 @@ Every year, thousands of industrial workers operate in confined spaces, hazardou
 ### **Videos**
 
 **Presentation**
+https://github.com/user-attachments/assets/072589d9-9e0d-4eef-936c-297825fb0a41
 
 <video controls width="100%">
   <source src="/canarion-presentation.mp4" type="video/mp4">
 </video>
 
 **Live Demo**
+https://github.com/user-attachments/assets/1716b9a6-cfe9-4def-8e47-fb05754ba1c5
 
 <video controls width="100%">
   <source src="/canarion-demo.mp4" type="video/mp4">
