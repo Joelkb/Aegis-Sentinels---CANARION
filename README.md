@@ -66,13 +66,13 @@ Every year, thousands of industrial workers operate in confined spaces, hazardou
 **Presentation**
 
 <video controls width="100%">
-  <source src="canarion-presentation.mp4" type="video/mp4">
+  <source src="/canarion-presentation.mp4" type="video/mp4">
 </video>
 
 **Live Demo**
 
 <video controls width="100%">
-  <source src="canarion-demo.mp4" type="video/mp4">
+  <source src="/canarion-demo.mp4" type="video/mp4">
 </video>
 
 ---
