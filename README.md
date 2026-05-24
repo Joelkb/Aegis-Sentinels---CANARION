@@ -54,6 +54,7 @@ Every year, thousands of industrial workers operate in confined spaces, hazardou
 <p align="center">
   <img src="/assets/images/CANARION/canarion-base-station-display.jpg" width="800"><br/>
   <i>Base Station Display Content - State and other parameters on the 16x2 LCD display</i>
+</p>
 
 <p align="center">
   <img src="/assets/images/CANARION/canarion-system-diagram.jpg" width="800"><br/>
