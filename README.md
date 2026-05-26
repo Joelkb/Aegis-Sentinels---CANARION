@@ -14,7 +14,7 @@ tags:
 
 > Autonomous safety monitoring when every second counts.
 
-<img src="/canarion-main.jpg" width="800">
+<img src="/canarion-cover.jpg" width="800">
 
 ---
 
